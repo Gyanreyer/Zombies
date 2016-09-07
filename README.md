@@ -37,11 +37,17 @@ Red circle = collision radius
 Yellow line = sum of forces being applied this frame	
 
 Human-
+
 	Blue line = velocity of human
+	
 	Blue circle = chase radius for zombies to evade
+	
 	Dark green line with orange circle at end = line to predicted positions of zombies evading
 
 Zombie-
+
 	Green line = velocity of zombie
+	
 	Green circle = chase radius for humans to pursue
+	
 	Red line with orange circle at end = line to predicted position of human currently chasing
